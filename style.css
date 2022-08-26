@@ -79,6 +79,8 @@ span {
     margin-top: 60px;
 }
 
+/*rodape*/
+
 .line {
     border: 1px solid  var(--span);
     width: 568px;
@@ -103,4 +105,11 @@ span {
 
 .rodape a:hover {
     color: var(--span);
+}
+
+.cadiado {
+    position: fixed;
+    left: 20px;
+    bottom: 20px;
+
 }
